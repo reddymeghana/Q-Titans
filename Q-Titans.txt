@@ -1,0 +1,18 @@
+VISITORS ACCESS DEVICE
+
+Problem Statement:
+
+To avoid overlapping of the people during visiting hours in the crowded areas.
+
+Solution:
+
+To overcome this we have come up with an idea:
+when a visitor enters the hospital he/she should give his unique identity like email address or phone number to the receptionist.
+The receptionist will generate QR-Code based on the unique id.
+After which the visitor can scan the QR-Code and move inside the ward.
+When the visiting hour is expired we can give him/her alarm as a automatic phone call.
+So ,this helps to create an alert for the visitors and decreases crowd.
+
+TechStacks:
+
+python, suitable apis
